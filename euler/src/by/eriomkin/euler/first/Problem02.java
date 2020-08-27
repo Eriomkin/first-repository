@@ -8,7 +8,7 @@ package by.eriomkin.euler.first;
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the sum of the even-valued terms.
  */
 
-public class EulerTask2 {
+public class Problem02 {
 
 	public static void main(String[] args) {
 		

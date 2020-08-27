@@ -6,7 +6,7 @@ package by.eriomkin.euler.first;
  * What is the 10 001st prime number? * 
  * */
 
-public class EulerTask7 {
+public class Problem07 {
 
 	public static void main(String[] args) {
 

@@ -8,7 +8,7 @@ package by.eriomkin.euler.first;
  * Find the product abc.
  */
 
-public class EulerTask9 {
+public class Problem09 {
 
 	public static void main(String[] args) {
 

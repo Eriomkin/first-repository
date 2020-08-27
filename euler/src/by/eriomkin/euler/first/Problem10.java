@@ -5,7 +5,7 @@ package by.eriomkin.euler.first;
  * Find the sum of all the primes below two million.
  */
 
-public class EulerTask10 {
+public class Problem10 {
 
 	public static void main(String[] args) {
 		long result;

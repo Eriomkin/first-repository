@@ -6,7 +6,7 @@ package by.eriomkin.euler.first;
  * Find the largest palindrome made from the product of two 3-digit numbers.
  */
 
-public class EulerTask4 {
+public class Problem04 {
 
 	public static void main(String[] args) {
 

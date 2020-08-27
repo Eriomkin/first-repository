@@ -2,7 +2,7 @@ package by.eriomkin.euler.first;
 
 
 
-public class EulerTask3 {
+public class Problem03 {
 
 	public static void main(String[] args) {
 

@@ -1,7 +1,5 @@
 package by.eriomkin.euler.first;
 
-import java.math.BigInteger;
-
 /*
  * The four adjacent digits in the 1000-digit number that have the greatest product are 
  * 9 × 9 × 8 × 9 = 5832.
@@ -40,7 +38,7 @@ public class Problem08 {
 
 		arr = toLongArray(str);
 		
-		long result = findMax(arr);
+		findMax(arr);
 		
 	}
 

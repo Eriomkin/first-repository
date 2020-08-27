@@ -141,13 +141,4 @@ public class Problem11 {
 
 	}
 
-	private static void print(int[][] arr) {
-		for (int[] arrHorizontal : arr) {
-			for (int arrNumber : arrHorizontal) {
-				System.out.print(arrNumber + ", ");
-			}
-			System.out.println();
-		}
-	}
-
 }
